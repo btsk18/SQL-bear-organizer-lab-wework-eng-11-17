@@ -1,1 +1,8 @@
 INSERT INTO bears (name, age, gender, color, termperament, alive) VALUES ("Mr.Chocolate", 12, "M", "brown", "calm", 1)
+INSERT INTO bears (name, age, gender, color, termperament, alive) VALUES ("Rowdy", 12, "M", "brown", "calm", 1)
+INSERT INTO bears (name, age, gender, color, termperament, alive) VALUES ("Tabitha", 12, "M", "brown", "calm", 1)
+INSERT INTO bears (name, age, gender, color, termperament, alive) VALUES ("Sergeant Brown", 12, "M", "brown", "calm", 1)
+INSERT INTO bears (name, age, gender, color, termperament, alive) VALUES ("Melissa", 12, "M", "brown", "calm", 1)
+INSERT INTO bears (name, age, gender, color, termperament, alive) VALUES ("Grinch", 12, "M", "brown", "calm", 1)
+INSERT INTO bears (name, age, gender, color, termperament, alive) VALUES ("Wendy", 12, "M", "brown", "calm", 1)
+INSERT INTO bears (name, age, gender, color, termperament, alive) VALUES (NULL, 12, "M", "brown", "calm", 1)
